@@ -1,0 +1,22 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Madhuri B S",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ecs": "^3.822.0",
+    "cors": "^2.8.5",
+    "http": "^0.0.1-security",
+    "ioredis": "^5.6.1",
+    "random-word-slugs": "^0.1.7",
+    "socket": "^0.15.43",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  }
+}

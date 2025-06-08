@@ -1,0 +1,4 @@
+/api-server/node_modules
+/build-server/node_modules
+/frontend-nextjs/node_modules
+/s3-reverse-proxy/node_modules
