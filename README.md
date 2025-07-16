@@ -1,3 +1,20 @@
+Vercel Clone – Automated Frontend Deployment Platform
+
+This project is a lightweight clone of Vercel, designed to automate the deployment of frontend applications directly from a Git repository. It provides a scalable, real-time CI/CD workflow where users can trigger builds, stream logs, and preview deployed outputs—all with minimal manual effort.
+
+🔧 Key Features
+GitHub Integration: Automatically clones frontend projects from Git repositories.
+
+Containerized Build System: Each deployment runs in an isolated Docker container managed by AWS ECS (Fargate).
+
+Live Build Logs: Real-time log streaming using Redis Pub/Sub and Socket.IO.
+
+Dynamic CI/CD Pipeline: Builds projects using npm install and npm run build, then uploads artifacts to AWS S3.
+
+Instant Preview URLs: Serves deployed projects via a reverse proxy mapped to unique subdomains (e.g., preview.example.com/<project_id>).
+
+Scalable Cloud Architecture: Uses AWS ECS, S3, and Redis for seamless scalability and performance.
+
 **Setup Guide**
 
 This Project contains following services and folders:
