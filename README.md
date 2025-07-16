@@ -1,4 +1,5 @@
 **Setup Guide**
+
 This Project contains following services and folders:
 
 * api-server: HTTP Server for REST APIs
@@ -15,6 +16,9 @@ This Project contains following services and folders:
 Following services would be up and running:
 
 **Service : PORT** 
+
 api-server	:9000
+
 socket.io-server	:9002
+
 s3-reverse-proxy	:8000
