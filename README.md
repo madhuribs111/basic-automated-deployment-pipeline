@@ -22,3 +22,6 @@ api-server	:9000
 socket.io-server	:9002
 
 s3-reverse-proxy	:8000
+
+ARCHITECTURE
+<img width="1689" height="753" alt="Screenshot 2025-07-16 111510" src="https://github.com/user-attachments/assets/825ca3ab-554f-4499-a2e9-563e84f1701a" />
