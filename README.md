@@ -11,7 +11,7 @@ Live Build Logs: Real-time log streaming using Redis Pub/Sub and Socket.IO.
 
 Dynamic CI/CD Pipeline: Builds projects using npm install and npm run build, then uploads artifacts to AWS S3.
 
-Instant Preview URLs: Serves deployed projects via a reverse proxy mapped to unique subdomains (e.g., preview.example.com/<project_id>).
+Instant Preview URLs: Serves deployed projects via a reverse proxy mapped to unique subdomains.
 
 Scalable Cloud Architecture: Uses AWS ECS, S3, and Redis for seamless scalability and performance.
 
