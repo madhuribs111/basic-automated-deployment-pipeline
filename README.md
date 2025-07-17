@@ -2,6 +2,9 @@ Vercel Clone – Automated Frontend Deployment Platform
 
 This project is a lightweight clone of Vercel, designed to automate the deployment of frontend applications directly from a Git repository. It provides a scalable, real-time CI/CD workflow where users can trigger builds, stream logs, and preview deployed outputs—all with minimal manual effort.
 
+PROJECT DEMO:
+https://drive.google.com/file/d/1--sNgKM5ieSZvTADAQljz536KQxnwLpz/view?usp=sharing
+
 🔧 Key Features
 GitHub Integration: Automatically clones frontend projects from Git repositories.
 
@@ -44,5 +47,4 @@ ARCHITECTURE
 
 <img width="1689" height="753" alt="Screenshot 2025-07-16 111510" src="https://github.com/user-attachments/assets/825ca3ab-554f-4499-a2e9-563e84f1701a" />
 
-PROJECT DEMO:
-https://drive.google.com/file/d/1--sNgKM5ieSZvTADAQljz536KQxnwLpz/view?usp=sharing
+
