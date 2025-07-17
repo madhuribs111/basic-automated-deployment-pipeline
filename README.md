@@ -45,4 +45,4 @@ ARCHITECTURE
 <img width="1689" height="753" alt="Screenshot 2025-07-16 111510" src="https://github.com/user-attachments/assets/825ca3ab-554f-4499-a2e9-563e84f1701a" />
 
 PROJECT DEMO:
-https://github.com/user-attachments/assets/e376f72a-f707-46c1-9b83-cdd6c4b8cf8b
+https://drive.google.com/file/d/1--sNgKM5ieSZvTADAQljz536KQxnwLpz/view?usp=sharing
